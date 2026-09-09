@@ -21,16 +21,18 @@ Set environment with following:
 pip install -r requirements.txt
 ```
 
+## Data & Checkpoints Preparation
+
+> [!NOTE]
+> You can download the required `dataset` and `checkpoints` package from [OneDrive Link](https://1drv.ms/u/c/de011cb09ae2716d/IQC1Zz2z4uYAQrW1A5Gde8IxAWKnvtUpEq3y4HIhIcN9aH4?e=xphpd8). Extract the downloaded files into the project root directory.
+
 ## Data Preparation
 
 Place test images (png) in `dataset/`. Images are used at native resolution (no resize).
 
 ```
 dataset/
-  19Aug794_i000_016.png
-  19Aug794_i008_003.png
-  19Aug794_i010_016.png
-  19Aug794_i013_005.png
+  test1.png
 ```
 
 ## Demo Introduction
