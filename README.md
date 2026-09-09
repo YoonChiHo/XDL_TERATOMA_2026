@@ -44,7 +44,7 @@ Place VS and SR weights in `checkpoints/`.
 ```
 checkpoints/
   latest_net_G.pth   # VS generator
-  hat.pth            # SR (HAT x4)
+  net_g_proposed.pth # SR (HAT x4)
 ```
 
 ### Step 1. Test
